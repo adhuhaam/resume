@@ -1,4 +1,4 @@
 ---
 deployment:
       tasks:
-        - export DEPLOYPATH=/home/camvwflt/camv.website
+        - export DEPLOYPATH=/home/camvwflt/eve.camv.website
