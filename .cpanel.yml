@@ -1,5 +1,0 @@
----
-deployment:
-      tasks:
-        - export DEPLOYPATH=/home/$YOUT_SECRET_NAME/eve.camv.website
-        - /bin cp /dist/* $DEPLOYPATH             #copy all from sub folder root
