@@ -2,3 +2,4 @@
 deployment:
       tasks:
         - export DEPLOYPATH=/home/camvwflt/eve.camv.website
+        - /bin/cp -R dist $DEPLOYPATH
