@@ -1,5 +1,5 @@
 # The Curriculum Vitae Template
-
+[![pages-build-deployment](https://github.com/adhuhaam/resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adhuhaam/resume/actions/workflows/pages/pages-build-deployment)
 You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
 
 ## What does this project do?
